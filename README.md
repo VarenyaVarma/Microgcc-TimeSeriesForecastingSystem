@@ -242,6 +242,6 @@ The system automatically selects the best-performing model based on validation R
 
 ## 👤 Author
 
-**P. B. Varenya Varma**
-B.Tech Computer Science Engineering
-Data Science | Full Stack Development | AI/ML
+**P. B. Varenya Varma**  
+B.Tech Computer Science Engineering  
+Data Science | Full Stack Development | AI/ML  
