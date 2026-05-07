@@ -273,7 +273,7 @@ days_since_holiday：Days since last holiday
 ### Step 1: Clone/Download Project
 
 ```bash
-cd c:\Users\varen\OneDrive\Desktop\microgcc\forecasting-system
+git clone <repository-url>
 ```
 
 ### Step 2: Create Virtual Environment
@@ -740,6 +740,7 @@ LOG_FILE = "forecasting.log"
 
 ### Quick Start:
 # 1. Navigate to project
+cd forecasting-system
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -751,7 +752,7 @@ python run_pipeline.py
 uvicorn api.app:app --reload
 
 # 5. Access docs
-http://localhost:8000/docs# 
+http://localhost:8000/docs
 
 
 ---
@@ -759,7 +760,6 @@ http://localhost:8000/docs#
 ## Authors
 
 **P. B. Varenya Varma**  
-Data Science Case Study
-UGID: 22WU0101018 (BTech-CSE)
-Role: Data Science Apprenticeship
+**B.Tech Computer Science Engineering**
+**Data Science | Full Stack Development | AI/ML**
 
