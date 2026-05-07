@@ -1,4 +1,3 @@
----
 # 🚀 Time Series Forecasting System
 
 **Candidate:** P. B. Varenya Varma | **UGID:** 22WU0101018 | **Role:** Data Science | **Company:** Microgcc
