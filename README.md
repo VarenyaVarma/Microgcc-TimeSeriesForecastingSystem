@@ -1,7 +1,5 @@
 # Time Series Forecasting System
 
-**Production-Grade Multi-Model Sales Forecasting Pipeline**
-
 **Candidate:** P. B. Varenya Varma | **UGID:** 22WU0101018 | **Role:** Data Science | **Company:** Microgcc
 
 ---
@@ -738,44 +736,9 @@ All operations are logged to console. For file logging:
 LOG_TO_FILE = True
 LOG_FILE = "forecasting.log"
 ```
-
-### Contact
-
-For issues or questions:
-- **Email:** varenyavarma@example.com
-- **GitHub:** [Link to repository]
-
 ---
 
-## License
-
-This project is confidential and intended for Microgcc internal use.
-
----
-
-## Authors
-
-**P. B. Varenya Varma**  
-Data Science Case Study
-UGID: 22WU0101018  
-Role: Data Science Candidate
-
----
-
-## Version History
-
-| Version | Date       | Changes |
-|---------|-----------|---------|
-| 1.0.0   | 2026-05-07 | Initial release with 4 models, API, documentation |
-
----
-
-**Last Updated:** 2026-05-07  
-**Project Status:** Production-Ready
-
----
-
-🚀 Quick Start:
+### Quick Start:
 # 1. Navigate to project
 
 # 2. Install dependencies
@@ -789,3 +752,14 @@ uvicorn api.app:app --reload
 
 # 5. Access docs
 http://localhost:8000/docs# 
+
+
+---
+
+## Authors
+
+**P. B. Varenya Varma**  
+Data Science Case Study
+UGID: 22WU0101018 (BTech-CSE)
+Role: Data Science Apprenticeship
+
