@@ -760,6 +760,6 @@ http://localhost:8000/docs
 ## Authors
 
 **P. B. Varenya Varma**  
-**B.Tech Computer Science Engineering**
-**Data Science | Full Stack Development | AI/ML**
+B.Tech Computer Science Engineering  
+Data Science | Full Stack Development | AI/ML  
 
